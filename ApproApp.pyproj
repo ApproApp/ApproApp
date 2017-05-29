@@ -37,6 +37,13 @@
     <Compile Include="ApproApp\AccountApp\tests.py" />
     <Compile Include="ApproApp\AccountApp\views.py" />
     <Compile Include="ApproApp\AccountApp\__init__.py" />
+    <Compile Include="ApproApp\Core\admin.py" />
+    <Compile Include="ApproApp\Core\apps.py" />
+    <Compile Include="ApproApp\Core\migrations\__init__.py" />
+    <Compile Include="ApproApp\Core\models.py" />
+    <Compile Include="ApproApp\Core\tests.py" />
+    <Compile Include="ApproApp\Core\views.py" />
+    <Compile Include="ApproApp\Core\__init__.py" />
     <Compile Include="ApproApp\OffApp\admin.py" />
     <Compile Include="ApproApp\OffApp\apps.py" />
     <Compile Include="ApproApp\OffApp\migrations\__init__.py" />
@@ -66,6 +73,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="ApproApp\AccountApp\templates\index.html" />
+    <Content Include="ApproApp\Core\templates\index.html" />
     <Content Include="ApproApp\OffApp\templates\index.html" />
     <Content Include="ApproApp\OrgApp\templates\index.html" />
     <Content Include="ApproApp\PeopApp\templates\index.html" />
@@ -76,6 +84,9 @@
     <Folder Include="ApproApp\AccountApp\" />
     <Folder Include="ApproApp\AccountApp\migrations\" />
     <Folder Include="ApproApp\AccountApp\templates\" />
+    <Folder Include="ApproApp\Core\" />
+    <Folder Include="ApproApp\Core\migrations\" />
+    <Folder Include="ApproApp\Core\templates\" />
     <Folder Include="ApproApp\OffApp\" />
     <Folder Include="ApproApp\OffApp\migrations\" />
     <Folder Include="ApproApp\OffApp\templates\" />
