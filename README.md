@@ -28,22 +28,7 @@ VI.	They can approve by applying digital signature certificate (.pfx file) to pd
 VII.	Now it will reach to last officer who will process it.
 
 ## Software Used
-•	Django
-•	Python 3
-•	SQL(anyone)
-•	HTML5
-•	CSS3
-•	Bootstrap
-•	JavaScript
-•	AngularJS
-•	Django addons
-	Report Lab
-	Identity4
-
-
-
-
-
+### •	Django •	Python 3 •	SQL(anyone) •	HTML5 •	CSS3 •	Bootstrap •	JavaScript •	AngularJS •	Django addons 	Report Lab 	Identity4
 
 ## Process
 Frontend will be made by using HTML, CSS, angular etc.
