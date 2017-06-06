@@ -45,6 +45,7 @@ INSTALLED_APPS = [
     'ApproApp.PeopApp',
     'ApproApp.AccountApp',
     'ApproApp.OffApp',
+    'ApproApp.Core',
 ]
 
 MIDDLEWARE_CLASSES = [
