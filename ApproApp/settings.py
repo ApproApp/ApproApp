@@ -39,7 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    
+    'django.contrib.admindocs',
     
     'ApproApp.OrgApp',
     'ApproApp.PeopApp',
@@ -64,7 +64,9 @@ ROOT_URLCONF = 'ApproApp.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': [
+            os.path.join(BASE_DIR, "ApproApp/templates"),
+        ],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
