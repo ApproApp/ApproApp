@@ -1,9 +1,186 @@
-<!DOCTYPE html>
-<html>
+﻿{% load static %}
+<!doctype html>
+<html lang="en-US">
 <head>
-  <title></title>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ApproApp</title>
+<link href="{% static 'Core/css/singlePageTemplate.css' %}" rel="stylesheet" type="text/css">
+<link href="{% static 'Core/css/bootstrap-3.3.7/dist/css/bootstrap.min.css' %}" rel="stylesheet">
+<link href="jQueryAssets/jquery.ui.core.min.css" rel="stylesheet" type="text/css">
+<link href="jQueryAssets/jquery.ui.theme.min.css" rel="stylesheet" type="text/css">
+<link href="jQueryAssets/jquery.ui.button.min.css" rel="stylesheet" type="text/css">
+<link rel="icon" href="{% static 'Core/images/fevicon5.ico' %}" type="image/x-icon"> 
+<link href="css/bootstrap-3.3.7.css" rel="stylesheet" type="text/css">
+<link href="jQueryAssets/jquery.ui.tabs.min.css" rel="stylesheet" type="text/css">
+<script src="jQueryAssets/jquery-1.11.1.min.js"></script>
+<script src="jQueryAssets/jquery.ui-1.10.4.button.min.js"></script>
+<script src="jQueryAssets/jquery.ui-1.10.4.tabs.min.js"></script>
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
 </head>
 <body>
-My First Template
+<div class="container">
+  <header> 
+	  <a href=""><img src="{% static 'Core/images/A1.png' %}" alt="myimg" width="200" height="81" class="img_logo"></a>
+    
+    <nav>
+      <ul class="col-md-12">
+        <li><a><strong>ACCOUNTS</strong></a><br>
+        </li>
+        <li><a><strong>BUSINESS</strong></a><br>
+        </li>
+        <li><a><strong>FREE TRIAL</strong></a><br>
+        </li>
+        <li>|</li>
+        <li><a><strong>FAQ</strong></a><br>
+        </li>
+        <select class="selectpicker" data-style="btn-info">
+        	<option>En</option>
+        	<option>Hi</option>
+        </select>
+      </ul>
+      
+    </nav>
+  </header>
+  <section class="hero" id="hero">
+    <h2 class="hero_header"><strong>Appro<span class="light">App</span></strong></h2>
+    <p class="tagline"><br>ApproApp is a secured way for getting instant approvals</p>
+  </section>
+  <section class="about" id="about">
+<div class="login_box">
+<h1>
+	SIGNUP HERE
+</h1>
+<br>
+	<table width="488" height="312" border="0" cellpadding="10" cellspacing="10">
+  <tbody>
+    <tr>
+      <td>Name</td>
+      <td><input type="text"></td>
+    </tr>
+   
+     <tr>
+      <td>Email</td>
+      <td><input type="email"></td>
+    </tr>
+    
+     <tr>
+      <td>Username</td>
+      <td><input type="text"></td>
+    </tr>
+   
+    <tr>
+      <td>Password</td>
+      <td><input type="password"></td>
+    </tr>
+   
+    <tr>
+      <td>Confirm Password</td>
+      <td><input type="password"></td>
+    </tr>
+   
+  </tbody>
+</table>
+    <br>
+    <br>
+    <button type="button" class="btn btn-success">SUBMIT</button>
+</div>
+  </section>
+  <section class="footer_column">
+	<div class="footer_container">
+    <img src="images/A1.png" alt="" width="250" height="102" class="img-rounded img-responsive"/> 
+    </div>
+    <div class="footer_container">
+      <h2 class="footerHeading"><strong>COMPANY</strong></h2>
+      <div class="list-group">
+   	  	  <a href="#" class="list-group-item active">
+   	  	  <h4 class="list-group-item-heading">About</h4>
+   	  	  </a>
+   	      <a href="#" class="list-group-item">
+   	      <h4 class="list-group-item-heading">Careers</h4>
+   	      </a>
+    	  <a href="#" class="list-group-item active">
+    	  <h4 class="list-group-item-heading">Get in touch<br>
+  	    </h4>
+    	  </a>
+   	      <a href="#" class="list-group-item">
+   	      <h4 class="list-group-item-heading">Explore </h4>
+   	      </a>
+      </div>
+    </div>
+    <div class="footer_container">
+      <h2 class="footerHeading"><strong> PRODUCT </strong></h2>
+      <div class="list-group">
+   	  	  <a href="#" class="list-group-item active">
+   	  	  <h4 class="list-group-item-heading">Features</h4>
+   	  	  </a>
+   	      <a href="#" class="list-group-item">
+   	      <h4 class="list-group-item-heading">User's Guide</h4>
+   	      </a>
+    	  <a href="#" class="list-group-item active">
+    	  <h4 class="list-group-item-heading">App </h4>
+    	  </a>
+   	      <a href="#" class="list-group-item">
+   	      <h4 class="list-group-item-heading">Security </h4>
+   	      </a>
+      </div>
+    </div>
+    <div class="footer_container">
+      <h2 class="footerHeading"><strong> HELP </strong></h2>
+      <div class="list-group">
+   	  	  <a href="#" class="list-group-item active">
+   	  	  <h4 class="list-group-item-heading">FAQ </h4>
+   	  	  </a>
+   	      <a href="#" class="list-group-item">
+   	      <h4 class="list-group-item-heading">Facebook</h4>
+   	      </a>
+    	  <a href="#" class="list-group-item active">
+    	  <h4 class="list-group-item-heading">Twitter</h4>
+    	  </a>
+   	      <a href="#" class="list-group-item">
+   	      <h4 class="list-group-item-heading">Linkedin</h4>
+   	      </a>
+   	       <a href="#" class="list-group-item active">
+    	  <h4 class="list-group-item-heading">Instagram</h4>
+    	  </a>
+      </div>
+    </div>
+    <div>
+  
+   </div>
+   <br>
+</section>
+  <div class="copyright">&copy;2015 - <strong>ApproApp</strong>
+  <div><a href="index.html">
+	  <h4>
+	  	Privacy Policy & Terms
+	  </h4>
+	  </a>
+  </div>
+  </div>
+  <div class="copyright">
+  <img src="images/fb.PNG" width="34" height="35" alt=""/>
+  <img src="images/insta.PNG" width="35" height="33" alt=""/>
+  <img src="images/linkedin.PNG" width="33" height="34" alt=""/>
+  <img src="images/twitter.PNG" width="32" height="33" alt=""/> 
+</div>
+	</div>
+
+
+<script type="text/javascript">
+$(function() {
+	$( "#Button1" ).button(); 
+});
+$(function() {
+	$( "#Tabs1" ).tabs(); 
+});
+$(function() {
+	$( "#RadioButtons1" ).buttonset(); 
+});
+</script>
 </body>
 </html>
