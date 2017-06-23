@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ApproApp
 
 ## Project Summary
