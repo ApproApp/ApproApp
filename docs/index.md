@@ -1,7 +1,7 @@
-# ApproApp
+# MechMocha Game Engine Using AI (M-GEUAI)
 
 ## Project Summary
-ApproApp is a facilitating application which will provide the much necessary online platform for various different Organizations, Executives and Individuals to submit, digitally sign and comment the different documents to be exchanged between diverse stakeholders of distinguishable organization.
+M-GEUAI is a facilitating application which will provide the much necessary online platform for various different Organizations, Executives and Individuals to submit, digitally sign and comment the different documents to be exchanged between diverse stakeholders of distinguishable organization.
 
 ## Project Details
 This vast platform will consist three types of users which include Organizations, Officials and Individuals. All of the them will have different tasks as specified below:
@@ -16,11 +16,11 @@ Individuals can fill those forms online and send them to officials for approval,
 
 
 ### 3.	Officials or Executives
-They will be required to digitally sign the documents and approve them through their .pfx files provided to them on behalf of ApproApp.
+They will be required to digitally sign the documents and approve them through their .pfx files provided to them on behalf of M-GEUAI.
 
 
 ## Technology
-We will develop the application with combining three web apps which will serve 3 diff sectors that is, one will be serving organizations, other to officials or executives and third will serve to normal individuals and all will be joint together by a common database. This means that at the very core level, approapp will serve the purpose of 3 different applications in one.
+We will develop the application with combining three web apps which will serve 3 diff sectors that is, one will be serving organizations, other to officials or executives and third will serve to normal individuals and all will be joint together by a common database. This means that at the very core level, M-GEUAI will serve the purpose of 3 different applications in one.
 
 
 ## Working
@@ -39,34 +39,30 @@ VI.	They can approve it by applying digital signature certificate (.pfx file) to
 VII. If approved, it will reach to the last officer who will process it.
 
 ## Software Used
-### •	Django •	Python 3 •	SQL(anyone) •	HTML5 •	CSS3 •	Bootstrap •	JavaScript •	AngularJS •	Django addons 	Report Lab 	Identity4
+### • Kivy • PyOpneGL •	PyGame • TensorFLow • SkLearn •	ImageProcessing • VideoProcssing • OpenCV •	Python3 • Matlab
 
 ## Process
-Frontend will be made by using HTML, CSS, angular etc. At backend, we need three main steps : 
-
-A.	Creating form builder is easy with Django using dynamic memory allocation. 
-
-B.	In converting html pages to pdf, we can use free open source addon ReportLab. 
-
-C.	PDF can be signed using identity 4 free opensource software.
+### 1. 
 
 
 ## Collaboration Required
-ApproApp requires a team of individuals who can collaborate with us to develop the product. We need you for 45 days with work from home or part time conditions.
+M-GEUAI requires a time of 6 to 8 months for completion. We want you to support us during the development by sponsorship or salary. Incase of salary, I can work remotely from Patiala or I can work from your office in Banglore.
 
 
 ## In Return
-In return ApproApp will be Providing you a place in core team.
+In return M-GEUAI will become a Product of MechMocha with complete copyrights, and Reserch Papers Published under this idea by me and also if possible any Patent under Computer Related Invention(Guidelines by Indian Patent Act) will also be owned by MechMocha.
 
 
 ## Terms and Conditions
-After complete development of the product, copyrights will be owned by the company.
+Section to be created later by memorandum of Understanding in case of sponsorship, and your terms will be carried forward in case you provide me a salary and job.
 
 
+## Humble Request
+This idea is not copyrighted or registered anywhere in India or anywhere else in the world. So, I hope that MechMocha will not cheat me and copy my idea.
 
 ### Ripudaman Singh,
 ### Thapar University, Patiala
-### Founder ApproApp
+### Founder M-GEUAI
 ### (+91) 9780-510-630
 ### rsingh_bemba16@thapar.edu
 
