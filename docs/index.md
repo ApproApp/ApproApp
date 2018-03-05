@@ -1,21 +1,20 @@
 # MechMocha Game Engine Using AI (M-GEUAI)
 
+
 ## Project Summary
 M-GEUAI is a game development engine for common people. They can make there own games using simple videos and a bit training to the game on online platform. M-GEUAI will be able to create different types of games such as shooting games in which developer will upload the video and select some target in the video and Engine will automatically select all other targets in the video after converting it to game  player will need to shoot those targets. We can also make run and chase games using this Engine like developer will select a path in the video after converting it to game the player will need to follow the same path. so there are so many games which can be developed by using our game engine and also because it will be a video so it will give a desi culture feel of anywhere in the world.
 
+
 ## Project Details
+
 ### Deliverables to MechMocha
 We will create a game called Total BlackOut In which we will have a scenario from india train and player will be sitting in the last coach of train and it will be night scene so it will be all black outside the window and lights inside the train. the player will need to shoot the lights around the path from running train to create a total blackout and if player shoots when train is not running or very slow police will catch him and take to the prison.
-
 We will Provide the Game Engine to make such games simply using videos and Images. 
-
 We will provide the web platform for the game engine which will be accessible from all kind of mobile and computer devices.
 
 ### Benefits To MechMocha
 This kind of platform will give freedom to create games in real world situations and will not require to convert everything to animation.
-
 Player will feel like its a realworld in his or her phone.
-
 This type of platform will provide developers to create games like pokemonGo very easily.
 
 
@@ -38,9 +37,12 @@ Gamers will download the game and play it in real world.
 
 
 ## Software Used
+
 ### • Kivy • PyOpenGL •	PyGame • TensorFLow • SkLearn •	ImageProcessing • VideoProcssing • OpenCV •	Python3 • Matlab • Django
 
+
 ## Process
+
 ### 1. Total Black Out Game Development
 In first four months the work will be done on image and video proccessing to develop this game called total black out in which I will take a video from window of a train at night of around 4 to 5 hours. Then by Video Processing using Machine Learning Algorithms of SkLearn, TensorFlow, OpenCV and Matlab we will make the system to capture targets which are having bright lights and at last using PyOpenGL and PyGame we will make shooting game in which player will need to target on the lights on the way. which will create blackout around the track of train. This will give us desi feeling of Indian trains and a lot of Indian culture around the train. but if player shoots the lights when train is not running he will be caught by police and game will be over. also atlast in last 3 weeks game will be converted for different platforms like Android, IOS, windows etc using Kivy.
 
@@ -74,14 +76,22 @@ This idea is not copyrighted or registered anywhere in India or anywhere else in
 ### (+91) 9780-510-630
 ### rsingh_bemba16@thapar.edu
 
+=======
+
 #### I will be looking forward to your Reply.
 
 =======
+
+
+
+
+
 # python-getting-started
 
 A barebones Python app, which can easily be deployed to Heroku.
 
 This application supports the [Getting Started with Python on Heroku](https://devcenter.heroku.com/articles/getting-started-with-python) article - check it out.
+
 
 ## Running Locally
 
