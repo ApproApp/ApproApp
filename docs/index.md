@@ -39,10 +39,17 @@ VI.	They can approve it by applying digital signature certificate (.pfx file) to
 VII. If approved, it will reach to the last officer who will process it.
 
 ## Software Used
-### • Kivy • PyOpneGL •	PyGame • TensorFLow • SkLearn •	ImageProcessing • VideoProcssing • OpenCV •	Python3 • Matlab
+### • Kivy • PyOpenGL •	PyGame • TensorFLow • SkLearn •	ImageProcessing • VideoProcssing • OpenCV •	Python3 • Matlab
 
 ## Process
-### 1. 
+### 1. Total Black Out Game Development
+In first three months the work will be done on image and video proccessing to develop this game called total black out in which I will take a video from window of a train at night of around 4 to 5 hours. Then by Video Processing using Machine Learning Algorithms of SkLearn, TensorFlow, OpenCV and Matlab we will make the system to capture targets which are having bright lights and at last using PyOpenGL and PyGame we will make shooting game in which player will need to target on the lights on the way. which will create blackout around the track of train. This will give us desi feeling of Indian trains and a lot of Indian culture around the train. but if player shoots the lights when train is not running he will be caught by police and game will be over. also atlast in last 3 weeks game will be converted for different platforms like Android, IOS, windows etc using Kivy.
+
+### 2. M-GEUAI Development
+In next three months the work will be done on Game engine using same models of Artificial Intelligence which we developed for our total blackout game development. Using pure Python3 and its packages we will be able to create the game engine.
+
+### 3. Web Platform
+In last 2 months we will use django to create a web platform for uploading this game engine and publishing it to the world.
 
 
 ## Collaboration Required
