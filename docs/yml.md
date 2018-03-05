@@ -1,7 +1,7 @@
-# MechMocha Game Engine Using AI (M-GEUAI)
+# ApproApp
 
 ## Project Summary
-M-GEUAI is a facilitating application which will provide the much necessary online platform for various different Organizations, Executives and Individuals to submit, digitally sign and comment the different documents to be exchanged between diverse stakeholders of distinguishable organization.
+ApproApp is a facilitating application which will provide the much necessary online platform for various different Organizations, Executives and Individuals to submit, digitally sign and comment the different documents to be exchanged between diverse stakeholders of distinguishable organization.
 
 ## Project Details
 This vast platform will consist three types of users which include Organizations, Officials and Individuals. All of the them will have different tasks as specified below:
