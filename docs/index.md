@@ -11,7 +11,7 @@ We will Provide the Game Engine to make such games simply using videos and Image
 
 We will provide the web platform for the game engine which will be accessible from all kind of mobile and computer devices.
 
-## Benefits To MechMocha
+### Benefits To MechMocha
 This kind of platform will give freedom to create games in real world situations and will not require to convert everything to animation.
 
 Player will feel like its a realworld in his or her phone.
@@ -24,7 +24,18 @@ We will create the models of for video processing and image processing then we w
 
 
 ## Working
-Proccess
+Proccess For Developers
+Game Developers will be asked to upload a video to convert it to a game.
+Now they will be asked to type of game they want to convert to like shooting or Run & Chase.
+If they Selects shooting they will be asked to select a few targets in the video and points which cant be shot by the player.
+If they Selects the Run & Chase they will be asked to select some path in the video which players need to follow.
+similar paths and targets will be selected by our engine and it will be converted to a game.
+They will be asked to select which platform they want to convert game to.
+They will find the link to download their own game in form of apk or other file according to platform.
+
+Process For Gamers
+Gamers will download the game and play it in real world.
+
 
 ## Software Used
 ### • Kivy • PyOpenGL •	PyGame • TensorFLow • SkLearn •	ImageProcessing • VideoProcssing • OpenCV •	Python3 • Matlab • Django
