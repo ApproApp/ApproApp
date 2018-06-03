@@ -12,6 +12,8 @@ Organizations will be capable of publishing documents online, through our websit
 
 ![alt text](https://raw.githubusercontent.com/ApproApp/ApproApp/master/docs/img/img1.png)
 
+![Alt text](img/img1.png?raw=true "Title")
+
 
 ### 2.	Individuals
 Individuals can fill those forms online and send them to officials for approval, they will be notified at each step of processing the document like when it will proceed to the next official, what comments did last executive make etc.
