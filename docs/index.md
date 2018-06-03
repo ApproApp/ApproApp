@@ -14,6 +14,11 @@ Organizations will be capable of publishing documents online, through our websit
 
 ![Alt text](img/img1.png?raw=true "Title")
 
+<p align="center">
+  <img src="img/img1.png" width="350"/>
+  <img src="your_relative_path_here_number_2_large_name" width="350"/>
+</p>
+
 
 ### 2.	Individuals
 Individuals can fill those forms online and send them to officials for approval, they will be notified at each step of processing the document like when it will proceed to the next official, what comments did last executive make etc.
