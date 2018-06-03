@@ -10,6 +10,8 @@ This vast platform will consist three types of users which include Organizations
 ### 1.	Organizations
 Organizations will be capable of publishing documents online, through our website, which will carry all the necessary information of the required digital signatures by officials for approval of application. They will also have the required info of the last stakeholder who will collect that document and process it.
 
+![alt text](https://raw.githubusercontent.com/ApproApp/ApproApp/master/docs/img/img1.jpg)
+
 
 ### 2.	Individuals
 Individuals can fill those forms online and send them to officials for approval, they will be notified at each step of processing the document like when it will proceed to the next official, what comments did last executive make etc.
