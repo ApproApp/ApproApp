@@ -10,7 +10,7 @@ This vast platform will consist three types of users which include Organizations
 ### 1.	Organizations
 Organizations will be capable of publishing documents online, through our website, which will carry all the necessary information of the required digital signatures by officials for approval of application. They will also have the required info of the last stakeholder who will collect that document and process it.
 
-![alt text](https://raw.githubusercontent.com/ApproApp/ApproApp/master/docs/img/img1.jpg)
+![alt text](https://raw.githubusercontent.com/ApproApp/ApproApp/master/docs/img/img1.png)
 
 
 ### 2.	Individuals
